@@ -1,4 +1,4 @@
 # Remarkable-Linux
 
 
-##THIS REPOSITORY WILL BE MOVED SHORTLY. CHECK HERE LATER FOR DETAILS.
+##[REPOSITORY MOVED HERE](https://github.com/jamiemcg/Remarkable)
